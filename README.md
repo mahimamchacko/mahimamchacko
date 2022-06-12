@@ -17,14 +17,3 @@ Mahima Chacko\
     systems: Windows
   }
 ```
-
-## Bio
-**What am doing?**
-- Working on my Bachlelor Degree in Software Engineering
-- Creating organization tools to more efficiently start each quarter in university
-- Spending time with family and friends this summer
-
-**How am I challenging myself?**
-- Setting a good routine by finding balance and prioritizing ideals
-- Learning new skills and trying new hobbies
-- Making projects with other languages
