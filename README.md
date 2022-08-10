@@ -14,6 +14,6 @@ Mahima Chacko\
     programs: [Visual Studio Code, Google Workspace, Microsoft Office, Notion],
     databases: Firebase,
     tools: Git,
-    systems: Windows
+    systems: [Windows, Mac]
   }
 ```
