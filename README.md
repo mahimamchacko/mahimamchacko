@@ -3,6 +3,7 @@
 ## Information
 Mahima Chacko\
 *Software Engineering Student at [Drexel University](https://drexel.edu/)*\
+*Developer for Travel Buddy*\
 *Information Technology Student Assistant at [College of Computing and Informatics](https://drexel.edu/cci/)*
 
 
