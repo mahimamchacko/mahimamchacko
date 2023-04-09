@@ -10,9 +10,9 @@ Mahima Chacko\
 ``` javascript
   const mahima = {
     pronouns: ["she", "her", "hers"],
-    languages: [Python, Java, HTML, CSS, JavaScript],
-    programs: [Visual Studio Code, Google Workspace, Microsoft Office, Notion],
-    databases: Firebase,
+    languages: [Python, Java, C, HTML, CSS, JavaScript],
+    programs: [Visual Studio, Visual Studio Code, Google Workspace, Microsoft Office, Notion],
+    databases: SQL, Firebase,
     tools: Git,
     systems: [Windows, Mac]
   }
