@@ -12,7 +12,7 @@ Mahima Chacko\
     pronouns: ["she", "her", "hers"],
     languages: [Python, Java, C, HTML, CSS, JavaScript],
     programs: [Visual Studio, Visual Studio Code, Google Workspace, Microsoft Office, Notion],
-    databases: SQL, Firebase,
+    databases: [SQL, Firebase],
     tools: Git,
     systems: [Windows, Mac]
   }
