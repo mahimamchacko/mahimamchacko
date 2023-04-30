@@ -3,7 +3,7 @@
 ## Information
 Mahima Chacko\
 *Software Engineering Student at [Drexel University](https://drexel.edu/)*\
-*Information Technology Student Assistant at [College of Computing and Informatics](https://drexel.edu/cci/)*
+*Senior IT Student Assistant at [College of Computing and Informatics](https://drexel.edu/cci/)*
 
 
 ## Snapshot
