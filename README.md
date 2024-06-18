@@ -2,7 +2,7 @@
 
 ## About
 
-👋 Hi everyone, my name is Mahima!
+👋 Hi everyone, my name is [Mahima](https://mahimamchacko.github.io/)!
 
 🎓 I am a third-year student at [Drexel University](https://drexel.edu/), majoring in Software Engineering and minoring in Data Science. I am passionate about creating innovate solutions to tough problems and exploring various coding tools and techniques.
 
